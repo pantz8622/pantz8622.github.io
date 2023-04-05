@@ -3219,3 +3219,13 @@ input, select, textarea {
 			}
 
 	}
+
+.skill {
+  color: #ffffff;
+  font-size: 12px;
+  border-radius: 7px;
+  padding-left: 2px;
+  padding-right: 2px;
+  background-color: #5cc6a7;
+  display: inline-block;
+}
