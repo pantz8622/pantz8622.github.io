@@ -3221,13 +3221,14 @@ input, select, textarea {
 	}
 
 .skill {
-  color: #ffffff;
-  font-size: 12px;
-  border-radius: 7px;
-  padding-left: 2px;
-  padding-right: 2px;
-  background-color: #d3d3d3;
+  font-size: 0.9em;
   display: inline-block;
+  color: rgb(255, 255, 255);
+  border-radius: 4px;
+  padding: 0em .5em;
+  background: rgb(73, 138, 251);
+  font-weight: 600;
+  margin: .25em .1em
 }
 
 .main_paragraph {
